@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mohamed-bo/tp4-Technologie-Web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mohamed-bo/tp4-Technologie-Web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# tp4-Technologie-Web  
+TP4 Technologie Web  
+solution TP4  
+Nom: Boulahia  
+Prénom: Mohamed Abderrahmen  
+Groupe: 01 IAM  
+<a href="https://mohamed-bo.github.io/tp4-Technologie-Web/table-css.html" target="_blank">Lien de solution TP4 : table-css.html</a>  
+<a href="https://mohamed-bo.github.io/tp4-Technologie-Web/exercice-css.html" target="_blank">Lien de solution TP4 : exercice-css.html</a>  
+<a href="https://mohamed-bo.github.io/tp4-Technologie-Web/formes-css.html" target="_blank">Lien de solution TP4 : formes-css.html</a>  
+<a href="https://mohamed-bo.github.io/tp4-Technologie-Web/shadow-css.html" target="_blank">Lien de solution TP4 : shadow-css.html</a>  
+<a href="https://mohamed-bo.github.io/tp4-Technologie-Web/border-css.html" target="_blank">Lien de solution TP4 : border-css.html</a>  
+<a href="https://mohamed-bo.github.io/tp4-Technologie-Web/couleur-css.html" target="_blank">Lien de solution TP4 : couleur-css.html</a>  
+Toutes les solutions:  
+<a href="https://mohamed-bo.github.io/tp1-Technologie-Web/" target="_blank">Lien de solution TP4 : Solution de tp 1</a>  
+<a href="https://mohamed-bo.github.io/first-html-project/" target="_blank">Lien de solution TP4 : Solution de tp 2</a>  
+<a href="https://mohamed-bo.github.io/first-form-project/" target="_blank">Lien de solution TP4 : Solution de tp 3</a>  
+<a href="https://mohamed-bo.github.io/tp4-Technologie-Web/" target="_blank">Lien de solution TP4 : Solution de tp 4</a>  
